@@ -5,14 +5,6 @@
 
 ## :rocket: Sobre o desafio
 
-Criada um app para ajudar as pessoas a encontrarem pontos de coleta com **Node js**, **React JS**, **React-Native**.
-
-<h3 align="center">
-  Funcionalidades do Frontend:
-</h3>
-
-Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
-
 Essa será uma aplicação onde o seu principal objetivo é uma pequena aplicação de atividades a fazer, para treinar um pouco mais sobre manipulação do estado no React.
 
 - Adicionar uma nova tarefa
