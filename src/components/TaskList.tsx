@@ -22,7 +22,8 @@ export function TaskList() {
           title:newTaskTitle,
           isComplete: false
         }
-        setTasks(prevState=>[...prevState, newTask]);        
+        setTasks(prevState=>[...prevState, newTask]);     
+        setNewTaskTitle('');   
       }      
   }
 
